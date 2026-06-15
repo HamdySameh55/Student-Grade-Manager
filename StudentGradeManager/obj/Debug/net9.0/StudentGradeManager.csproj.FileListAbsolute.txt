@@ -1,0 +1,14 @@
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\bin\Debug\net9.0\StudentGradeManager.exe
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\bin\Debug\net9.0\StudentGradeManager.deps.json
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\bin\Debug\net9.0\StudentGradeManager.runtimeconfig.json
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\bin\Debug\net9.0\StudentGradeManager.dll
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\bin\Debug\net9.0\StudentGradeManager.pdb
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\StudentGradeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\StudentGradeManager.AssemblyInfoInputs.cache
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\StudentGradeManager.AssemblyInfo.cs
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\StudentGradeManager.csproj.CoreCompileInputs.cache
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\StudentGradeManager.dll
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\refint\StudentGradeManager.dll
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\StudentGradeManager.pdb
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\StudentGradeManager.genruntimeconfig.cache
+C:\Users\sameh\OneDrive\Desktop\New folder (10)\StudentGradeManager\obj\Debug\net9.0\ref\StudentGradeManager.dll
